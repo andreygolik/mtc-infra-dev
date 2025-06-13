@@ -1,2 +1,3 @@
-# mtc-infra-dev
-Terraform code for MTC project
+# This is a dev Terraform MTC infra project repository.
+
+Created by Andrey Golik.
